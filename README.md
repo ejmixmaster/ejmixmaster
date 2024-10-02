@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ejmixmaster
-- 👀 I’m interested internet security and ethical hacking
+- 👀 I’m interested in internet security and ethical hacking
 - 🌱 I’m currently learning internet security, ethical hacking and AI
 
 <!---
