@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @ejmixmaster
-- 👀 I’m interested in internet security and ethical hacking
-- 🌱 I’m currently learning internet security, ethical hacking and AI
+Yooo what up just a guy who loves retro games and consle modding.
 
-<!---
-ejmixmaster/ejmixmaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Favorite retro game:
+Super Mario World
+
+My inventory: 
+Game Boy Advance ×1
+PlayStation 2 ×1
+Xbox 360 ×1
+Nintendo DS Lite ×1
+Nintendo 3DS ×1
+Nintendo 2DS ×1
+PlayStation 4 ×1
+Nintendo Switch V1 ×2
+Nintendo Switch V2 ×1
+Nintendo Switch Lite ×1
+New Nintendo 2DS XL ×1
+Custom Gaming PC x2
